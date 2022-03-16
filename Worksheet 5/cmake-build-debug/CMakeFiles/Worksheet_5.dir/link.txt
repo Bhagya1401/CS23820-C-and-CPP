@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/Worksheet_5.dir/main.c.o -o Worksheet_5.exe -Wl,--out-implib,libWorksheet_5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

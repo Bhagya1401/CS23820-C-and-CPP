@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/Worksheet 2/Debug/biggest.c
+debug.h
+/impacs/bhw/CS23820/Worksheet 2/Debug/debug.h
+
+/impacs/bhw/CS23820/Worksheet 2/Debug/debug.h
+
+/impacs/bhw/CS23820/Worksheet 2/Debug/main.c
+stdio.h
+-
+debug.h
+/impacs/bhw/CS23820/Worksheet 2/Debug/debug.h
+
+/impacs/bhw/CS23820/Worksheet 2/Debug/multiply.c
+debug.h
+/impacs/bhw/CS23820/Worksheet 2/Debug/debug.h
+

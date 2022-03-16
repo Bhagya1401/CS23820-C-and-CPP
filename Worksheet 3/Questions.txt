@@ -1,0 +1,32 @@
+1) 30
+
+2) Yes
+
+3) GNU development tools, GNU strings  - print the sequences of printable characters in files
+
+
+4) 25
+
+5) strings.h
+
+6) Yes
+
+7) Any characters after whitespace not included
+
+8) Because white space is recognised as the end of the string
+
+9) %[^n] - reads all characters until newline
+
+10) It is correct
+
+11) str cpy , strcat
+
+12) sea lion sorts first
+
+13) Zebra sorts first
+
+14) Compare ASCII Values and the ASCII value of Z is greater than that of z
+
+15) 63 = first position and it is found 8 times
+
+16)

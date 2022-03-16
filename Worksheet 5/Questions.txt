@@ -1,0 +1,7 @@
+1)
+
+typedef struct person_info{
+    char name[30];
+    double height;
+    double weight;
+}person;

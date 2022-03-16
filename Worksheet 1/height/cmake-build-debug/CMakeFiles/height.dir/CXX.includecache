@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/height/height.h
+
+/impacs/bhw/CS23820/height/main.cpp
+stdio.h
+-
+height.h
+/impacs/bhw/CS23820/height/height.h
+

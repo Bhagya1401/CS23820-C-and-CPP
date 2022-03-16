@@ -1,0 +1,33 @@
+1) warning: incompatible implicit declaration of built-in function ‘printf’
+
+2)first.c file needs to include <stdio.h>
+
+3) You can select using options like -Werror etc
+
+4)
+return type defaults to ‘int’ - specify main() into int main()
+
+control reaches end of non-void function - return a value from main() to ensure a void is not returned , e.g return 0
+
+5) -std=c90 -> ANSI C , -stdc89 -> C89 , -std=c99 -> C99, -std=c11 ->C11
+
+6) This turns off certain features of GCC that are incompatible with ISO C90
+
+7)-Werror = Converts specified warnings into errors
+  -Wpedantic = does not cause warning messages for use of the alternate keywords whose names begin and end with __
+
+8)Warning messages are helpful in the sense that they help the programmer know to great detail the minor issues that may be found in the code. Converting them into errors could help the programmer to avoid actual errors in the future. s 
+
+9) Project was built 
+
+10) C/ divide_num contains the value 0
+
+11) This is interger division because the value returned is 0 and the remainder is discarded 
+
+12)The value stored now is 0.80
+
+13) The / symbol is used both for integer and real artihmetic its serves the same purpose
+
+14) 1.75m
+
+15)Functions are reusable and promote sustainable programming

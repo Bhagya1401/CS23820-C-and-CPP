@@ -1,0 +1,26 @@
+1) 13 lines of Code
+
+2) ??
+
+
+3)Value of z = 0 
+
+4)Value of c = 2
+
+5)No c contains the value of a divided by b (intger division) not multiplied 
+
+6)Stops on the function call first
+
+7)x = 7 , y = 3 - These are the correct values
+
+8)Program stops at the if statment in the get_biggest function
+
+9)a = 7, b = 3
+
+10) a is bigger
+
+11) Stops at the first branch of the statement c = b
+
+12) No as it sets c to equal to b, which is the smaller of the two values
+
+13) Yes

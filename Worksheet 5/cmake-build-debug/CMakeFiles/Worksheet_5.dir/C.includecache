@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/p/CS23820/Worksheet 5/cmake-build-debug/main.c
+people.h
+/cygdrive/p/CS23820/Worksheet 5/cmake-build-debug/people.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/cygdrive/p/CS23820/Worksheet 5/cmake-build-debug/people.h
+

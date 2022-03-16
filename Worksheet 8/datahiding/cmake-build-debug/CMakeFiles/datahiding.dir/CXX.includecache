@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Bat.h
+Mammal.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Mammal.h
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Dog.cpp
+Dog.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Dog.h
+iostream
+-
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Dog.h
+Mammal.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Mammal.h
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Elk.h
+Mammal.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Mammal.h
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Mammal.h
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/MammalCreator.cpp
+MammalCreator.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/MammalCreator.h
+Elk.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Elk.h
+Dog.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Dog.h
+Bat.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Bat.h
+iostream
+-
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/MammalCreator.h
+Mammal.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Mammal.h
+
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/TestDeepCopy.cpp
+iostream
+-
+Dog.h
+/cygdrive/c/Users/bhagy/Documents/Bhagya/CS23820/Worksheet 8/datahiding/Dog.h
+

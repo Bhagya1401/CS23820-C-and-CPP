@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/height.dir/main.c.o CMakeFiles/height.dir/height.c.o -o height 

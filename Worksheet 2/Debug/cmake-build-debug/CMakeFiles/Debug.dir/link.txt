@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Debug.dir/main.c.o CMakeFiles/Debug.dir/multiply.c.o CMakeFiles/Debug.dir/biggest.c.o -o Debug 

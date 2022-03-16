@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/Worksheet 7/WorksheetFilesIO/Book.h
+string
+-
+fstream
+-
+
+/impacs/bhw/CS23820/Worksheet 7/WorksheetFilesIO/main.cpp
+string
+-
+iostream
+-
+fstream
+-
+Book.h
+/impacs/bhw/CS23820/Worksheet 7/WorksheetFilesIO/Book.h
+vector
+-
+

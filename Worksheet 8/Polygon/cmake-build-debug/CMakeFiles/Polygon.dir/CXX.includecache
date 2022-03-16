@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Polygon.h
+
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Rectangle.h
+Polygon.h
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Polygon.h
+
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Triangle.h
+Polygon.h
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Polygon.h
+
+/impacs/bhw/CS23820/Worksheet 8/Polygon/main.cpp
+iostream
+-
+Polygon.h
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Polygon.h
+Rectangle.h
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Rectangle.h
+Triangle.h
+/impacs/bhw/CS23820/Worksheet 8/Polygon/Triangle.h
+

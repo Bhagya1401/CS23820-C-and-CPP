@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/CS23820.dir/first.c.o CMakeFiles/CS23820.dir/functions.c.o -o CS23820 

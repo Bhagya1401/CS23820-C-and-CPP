@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/Worksheet 2/Height_Loop/cmake-build-debug/height.c
+height.h
+/impacs/bhw/CS23820/Worksheet 2/Height_Loop/cmake-build-debug/height.h
+
+/impacs/bhw/CS23820/Worksheet 2/Height_Loop/cmake-build-debug/height.h
+
+/impacs/bhw/CS23820/Worksheet 2/Height_Loop/cmake-build-debug/main.c
+stdio.h
+-
+height.h
+/impacs/bhw/CS23820/Worksheet 2/Height_Loop/cmake-build-debug/height.h
+

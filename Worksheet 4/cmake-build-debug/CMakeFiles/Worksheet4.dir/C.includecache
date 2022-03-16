@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/Worksheet 4/cmake-build-debug/lists_def.h
+stdbool.h
+-
+
+/impacs/bhw/CS23820/Worksheet 4/cmake-build-debug/main.c
+stdio.h
+-
+lists_def.h
+/impacs/bhw/CS23820/Worksheet 4/cmake-build-debug/lists_def.h
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+

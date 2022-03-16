@@ -1,0 +1,19 @@
+1) birthDate is composed with employee, birthDay is an object of type Date
+
+2)name and birthday are created on the stack and startSalary is created on the heap
+
+3)It calls the constructors of the Date and String before it excutes itself because the data members are of type constant 
+
+4)
+
+5)Fix memory leaks by destoying new instances in destructor
+
+6)Gets a line from stream into string
+
+7)Checks whether the state of stream is good and contains no errors whereas eof returns when end of file is reached and does not check for errors
+
+8)getline overwrites buffer and becuase ints dont use it, the buffer needs to be maunally overwritten. So ignore is called twice to clear buffer and account for space
+
+9)endl overwrites output buffer whereas \n does not
+
+10) 

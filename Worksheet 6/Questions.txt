@@ -1,0 +1,28 @@
+1)An error appears
+
+2)You can omit the std part by using a namespace
+
+3) 5 = 2.28333 , 10 2.92897 , 100 = 5.18738, 1000 = 7.48547
+
+4)
+
+5)size of int is 4
+
+6)It grows upwards , the value of the hexi decimals are decreasing 
+
+7)??
+
+8)a's memory address gets smaller while bs gets bigger
+
+9)
+
+10)Pointer is 8 bytes
+
+11)it is double the size of the int
+
+12)
+
+
+14)The memory location of the static variable is constant
+
+

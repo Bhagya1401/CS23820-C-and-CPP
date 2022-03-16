@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/employees.dir/Date.cpp.o CMakeFiles/employees.dir/Employee.cpp.o CMakeFiles/employees.dir/main.cpp.o CMakeFiles/employees.dir/Pension.cpp.o -o employees 

@@ -1,0 +1,13 @@
+1)
+
+typedef struct book{
+    char book[30];
+    char author[30];
+    long ISBN;
+    node_pointer next;
+};
+
+
+2)
+
+new_node_ptr = malloc(sizeof( book));

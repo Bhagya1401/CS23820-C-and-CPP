@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/first /first.c
+functions.h
+/impacs/bhw/CS23820/first /functions.h
+stdio.h
+-
+
+/impacs/bhw/CS23820/first /functions.c
+functions.h
+/impacs/bhw/CS23820/first /functions.h
+
+/impacs/bhw/CS23820/first /functions.h
+

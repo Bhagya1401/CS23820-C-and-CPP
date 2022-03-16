@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/impacs/bhw/CS23820/Worksheet 6/recursive/Date.cpp
+Date.h
+/impacs/bhw/CS23820/Worksheet 6/recursive/Date.h
+iostream
+-
+
+/impacs/bhw/CS23820/Worksheet 6/recursive/Date.h
+iostream
+-
+
